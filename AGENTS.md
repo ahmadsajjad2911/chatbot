@@ -13,7 +13,7 @@
 * Add frontend package: `npm install <package-name>`
 * Backend: `uv run fastapi dev`
 * Add backend package: `uv add <package-name>`
-* Tests: `cd backend && pytest`
+* Tests: `cd ai-assistant/api && pytest`
 
 ## Rules
 
